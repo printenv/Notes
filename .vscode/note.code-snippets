@@ -1,0 +1,18 @@
+{
+	"Initialize Cornell note taking ": {
+		"scope": "markdown,plaintext",
+		"prefix": "note",
+		"body": [
+			"# Cue",
+			"",
+			"<hr />",
+			"",
+			"# Note",
+			"$1",
+			"<hr />",
+			"",
+			"# Summary"
+		],
+		"description": "Initialize Cornell note taking"
+	}
+}
